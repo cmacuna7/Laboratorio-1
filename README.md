@@ -3,8 +3,8 @@
 
 1. OBJETIVOS
  
- * Conocer la terminología y su aplicación en las leyes de Kirchhoff mediante en investigación de las mismas.
  * Ser capaces de reconocer los tipos de circuitos eléctricos y hallar la variable faltante mediante aplicación de fórmulas.
+ * Conocer la terminología y su aplicación en las leyes de Kirchhoff mediante en investigación de las mismas.
  
 2. MARCO TEÓRICO 
  
