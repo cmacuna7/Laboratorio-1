@@ -2,7 +2,10 @@
 
 
 1. OBJETIVOS
+ 
+  * Conocer la terminología y su aplicación en las leyes de Kirchhoff mediante en investigación de las mismas.
+ 
+ *
 
 
 
-[ACUÑA_CHRISTIAN_ACS3.pdf](https://github.com/cmacuna7/Laboratorio-1/files/6580950/ACUNA_CHRISTIAN_ACS3.pdf)
