@@ -28,7 +28,7 @@
 
 ![](Img/Formula.V.jpeg)
 
-![](Img/formula.error.jpeg)
+![](Img/formula.error1.jpeg)
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
