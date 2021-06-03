@@ -1,6 +1,5 @@
 # InformeLaboratorio
 
-
 1. OBJETIVO GENERAL 
  
  * Ser capaces de reconocer los tipos de circuitos eléctricos y hallar la variable faltante mediante aplicación de fórmulas.
