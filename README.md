@@ -13,10 +13,35 @@
  las mismas.  
  
 2. MARCO TEÓRICO 
+
+![](Img/MarcoT1.jpeg)
+![](Img/MarcoT2.jpeg)
  
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
+![](Img/Circuito.jpeg)
+
+![](Img/Circuito.S.V.jpeg)
+
+![](Img/Circuito.S.mA.jpeg)
+
+
+
+![](Img/formula.error.jpeg)
+
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+
+*Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
+
+![](Img/tabla1.jpeg)
+
+*Tabla 1.2. Verificación de la LVK.
+
+![](Img/tabla2.jpeg)
+
+*Tabla 1.3. Verificación de la LCK.
+
+![](Img/tabla3.jpeg)
 
 5. VIDEO
 
