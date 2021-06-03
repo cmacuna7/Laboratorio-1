@@ -18,17 +18,23 @@
  
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
+Circuito Analítico
+
 ![](Img/Circuito.jpeg)
+
+Circuito Simulado para Voltaje 
 
 ![](Img/Circuito.S.V.jpeg)
 
+Circuito Simulado para mili Amperios 
+
 ![](Img/Circuito.S.mA.jpeg)
+
+Análisis y aplicación de las leyes de Kirchhoff 
 
 ![](Img/Kirchhoff.jpeg)
 
 ![](Img/Formula.V.jpeg)
-
-![](Img/formula.error1.jpeg)
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
@@ -43,6 +49,10 @@
 *Tabla 1.3. Verificación de la LCK.
 
 ![](Img/tabla3.jpeg)
+
+*Formula del calculo de error entre los Valores Calculados y Medidos
+
+![](Img/formula.error1.jpeg)
 
 5. VIDEO
 
