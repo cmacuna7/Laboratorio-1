@@ -25,7 +25,9 @@
 
 ![](Img/Circuito.S.mA.jpeg)
 
+![](Img/Kirchhoff.jpeg)
 
+![](Img/Formula.V.jpeg)
 
 ![](Img/formula.error.jpeg)
 
