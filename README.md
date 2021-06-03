@@ -8,7 +8,7 @@
 2. OBJETIVOS ESPECIFICOS
 
  * Investigar el concepto de las leyes, mallas y nodos que permiten comprender y ampliar el conocimiento de corrientes y voltajes.
- * Conocer su aplicación en las leyes de Kirchhoff mediante la investigación de las mismas.
+ * Conocer su aplicación en las leyes de Kirchhoff mediante una indagación adecuada. 
  * Relacionar las leyes de Kirchhoff con la ley de Ohnm mediante los calculos matemáticos realizados de corrientes, tensiones y resistencias demostrando asi el cumplimiento de 
  las mismas.  
  
