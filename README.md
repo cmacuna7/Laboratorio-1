@@ -18,6 +18,10 @@
  
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
+Materiales
+
+![](Img/Materiales.jpeg)
+
 Circuito Analítico
 
 ![](Img/Circuito.jpeg)
