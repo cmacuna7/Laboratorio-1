@@ -60,6 +60,8 @@ Análisis y aplicación de las leyes de Kirchhoff
 
 5. VIDEO
 
+https://www.youtube.com/watch?v=8vd9GqFQ8AM
+
 6. CONCLUSIONES
 
 
